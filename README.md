@@ -3,8 +3,10 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Sample demo to demonstrate the use of multibuild pack PCF - for more details refer - https://docs.pivotal.io/partners/appdynamics/index.html
+
+
 Note:
-  - If there are any changes by the time you go through this demo in comparision with docs above, Author don't own the responsibility.
+   If there are any changes by the time you go through this demo in comparision with docs above, Author don't own the responsibility.
   
 # Steps
 
