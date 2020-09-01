@@ -31,8 +31,9 @@ There are two ways to do it
     ```
 ## Step 2: Clone the repo
 ```sh
-    $ git clone  && cd  
+    $ git clone git@github.com:<gitusename>/multi_build_pack_appd_python_demo.git  && cd multi_build_pack_appd_python_demo
 ```
+Change "gitusename" as your git username.
 
 ## Step 3: Make necessary changes at manifest.yml file
 ENV variables Names that you define should with https://docs.appdynamics.com/display/PRO45/Python+Agent+Settings
