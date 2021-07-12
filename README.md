@@ -22,12 +22,12 @@ There are two ways to do it
     ```
 - Create a service instance of the appdynamics service and a plan of your choice
     ```sh
-        $ cf create-service appdynamics pcf-appd demo
+        $ cf create-service appdynamics pcf-appd appdynamics-demo
     ```
 
 2. Using User defined Service (CUPS)
     ```sh
-        $ cf cups demo -p '{"account-access-key":"acce$$key", "account-name":"customer1", "host-name":"demo.appdynamics.com", "port":"8090", "ssl-enabled":false}' 
+        $ cf cups appdynamics-demo -p '{"account-access-key":"acce$$key", "account-name":"customer1", "host-name":"demo.appdynamics.com", "port":"8090", "ssl-enabled":false}' 
     ```
 ## Step 2: Clone the repo
 ```sh
