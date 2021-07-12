@@ -10,4 +10,4 @@ applications:
     APPD_APP_NAME: my-python-app
     APPD_TIER_NAME: cf-python
   services:
-    - demo
+    - appdynamics-demo
